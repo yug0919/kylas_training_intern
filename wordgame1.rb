@@ -44,6 +44,7 @@ class GuessWord
     end
   end
 end
+# test the game
 
 gameon=GuessWord.new(["rubby","adi","yug","prajwal","saloni","sharukh","salman","puneet"])
 gameon.play
